@@ -2,7 +2,6 @@ import _ from 'lodash';
 import React from 'react';
 import ReactDom from 'react-dom';
 import YTSearch from 'youtube-api-search';
-
 import SearchBar from './components/SearchBar';
 import VideoDetail from './components/VideoDetail';
 import VideoList from './components/VideoList';
